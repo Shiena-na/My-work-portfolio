@@ -1,4 +1,4 @@
-# Shienalyn Gawiran – IT Portfolio
+# Shienalyn Gawiran – Portfolio
 
 Static portfolio site (HTML, CSS, JavaScript). No build step.
 
